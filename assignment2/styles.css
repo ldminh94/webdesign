@@ -1,0 +1,26 @@
+/* add your CSS here */
+
+#fact {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+span.b {
+    font-weight: bold; 
+}
+
+div.border{
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    padding: 10px 20px 10px 20px;
+}
+
+
+#dogimg{
+    width: 300px;
+}
